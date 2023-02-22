@@ -1,0 +1,11 @@
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\bin\Debug\CollectionOfObjectsExample.exe.config
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\bin\Debug\CollectionOfObjectsExample.exe
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\bin\Debug\CollectionOfObjectsExample.pdb
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\bin\Debug\ClassLibrary1.dll
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\bin\Debug\ClassLibrary1.pdb
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\obj\Debug\CollectionOfObjectsExample.csproj.AssemblyReference.cache
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\obj\Debug\CollectionOfObjectsExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\obj\Debug\CollectionOfObjectsExample.csproj.CoreCompileInputs.cache
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\obj\Debug\CollectionOfObjectsExample.csproj.CopyComplete
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\obj\Debug\CollectionOfObjectsExample.exe
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\CollectionOfObjectsExample\CollectionOfObjectsExample\obj\Debug\CollectionOfObjectsExample.pdb
