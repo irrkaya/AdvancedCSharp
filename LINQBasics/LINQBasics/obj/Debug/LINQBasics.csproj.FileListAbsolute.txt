@@ -1,0 +1,8 @@
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\LINQBasics\LINQBasics\bin\Debug\LINQBasics.exe.config
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\LINQBasics\LINQBasics\bin\Debug\LINQBasics.exe
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\LINQBasics\LINQBasics\bin\Debug\LINQBasics.pdb
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\LINQBasics\LINQBasics\obj\Debug\LINQBasics.csproj.AssemblyReference.cache
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\LINQBasics\LINQBasics\obj\Debug\LINQBasics.csproj.SuggestedBindingRedirects.cache
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\LINQBasics\LINQBasics\obj\Debug\LINQBasics.csproj.CoreCompileInputs.cache
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\LINQBasics\LINQBasics\obj\Debug\LINQBasics.exe
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\LINQBasics\LINQBasics\obj\Debug\LINQBasics.pdb
