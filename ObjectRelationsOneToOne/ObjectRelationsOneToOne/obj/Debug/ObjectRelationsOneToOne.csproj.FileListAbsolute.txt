@@ -1,0 +1,11 @@
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\ObjectRelationsOneToOne\ObjectRelationsOneToOne\bin\Debug\ObjectRelationsOneToOne.exe.config
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\ObjectRelationsOneToOne\ObjectRelationsOneToOne\bin\Debug\ObjectRelationsOneToOne.exe
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\ObjectRelationsOneToOne\ObjectRelationsOneToOne\bin\Debug\ObjectRelationsOneToOne.pdb
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\ObjectRelationsOneToOne\ObjectRelationsOneToOne\bin\Debug\ClassLibrary1.dll
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\ObjectRelationsOneToOne\ObjectRelationsOneToOne\bin\Debug\ClassLibrary1.pdb
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\ObjectRelationsOneToOne\ObjectRelationsOneToOne\obj\Debug\ObjectRelationsOneToOne.csproj.AssemblyReference.cache
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\ObjectRelationsOneToOne\ObjectRelationsOneToOne\obj\Debug\ObjectRelationsOneToOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\ObjectRelationsOneToOne\ObjectRelationsOneToOne\obj\Debug\ObjectRelationsOneToOne.csproj.CoreCompileInputs.cache
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\ObjectRelationsOneToOne\ObjectRelationsOneToOne\obj\Debug\ObjectRelationsOneToOne.csproj.CopyComplete
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\ObjectRelationsOneToOne\ObjectRelationsOneToOne\obj\Debug\ObjectRelationsOneToOne.exe
+C:\Users\irem_\Desktop\ALL FOLDERS\Software Development\AdvancedCSharp\ObjectRelationsOneToOne\ObjectRelationsOneToOne\obj\Debug\ObjectRelationsOneToOne.pdb
