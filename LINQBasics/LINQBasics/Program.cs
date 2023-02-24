@@ -40,6 +40,29 @@ namespace LINQBasics
             {
                 Console.WriteLine(item.EmpID + "," + item.EmpName + "," + item.Job + "," + item.City);
             }
+            Console.WriteLine("\n");
+            Console.WriteLine("First and FirstorDefault");
+            Console.WriteLine("\n");
+
+            //Where
+            List<Employee> filteredEmployees = employees.Where(emp => emp.Job == "Manager").ToList();
+            Console.WriteLine(filteredEmployees[0].EmpID + "," + filteredEmployees[0].EmpName);
+
+
+            //First
+            Employee firstManager = employees.First(emp => emp.Job == "Manager");
+            Console.WriteLine(firstManager.EmpID + "," + firstManager.EmpName);
+
+            //FirstorDefault
+            Employee firstManager2 = employees.FirstOrDefault(emp => emp.Job == "Clerk");
+            if (firstManager2!=null)
+            {
+                Console.WriteLine(firstManager2.EmpID + "," + firstManager2.EmpName);
+            }
+            else
+            {
+                Console.WriteLine("No clerk in the list!");
+            }
 
             Console.ReadKey();
         }
