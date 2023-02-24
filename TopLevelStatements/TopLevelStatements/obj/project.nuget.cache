@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H9UvBE07MrCkrNIiQJefQRRKFXeFc0suMi2YlcqrkmCo/edL/+/DETApxjQ+y8uGmnsi8xr+sY8T35JNV7fVWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\irem_\\Desktop\\ALL FOLDERS\\Software Development\\AdvancedCSharp\\TopLevelStatements\\TopLevelStatements\\TopLevelStatements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irem_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\irem_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\irem_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\irem_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
